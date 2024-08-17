@@ -13,7 +13,7 @@
 
 ## Installation
 
-To use SQLDorker, you'll need Python 3.6 or higher. Follow these steps to set up the tool:
+To use SQLDorker, you'll need Python 3.6 or higher, also only works on linux. Follow these steps to set up the tool:
 
 1. **Clone the Repository**
 
@@ -23,12 +23,7 @@ To use SQLDorker, you'll need Python 3.6 or higher. Follow these steps to set up
     ```
 
 2. **Install Dependencies**
-
-    Create a virtual environment and install the required packages:
-
     ```
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     pip install -r requirements.txt
     ```
 
